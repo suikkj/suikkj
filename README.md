@@ -5,4 +5,4 @@
 🕵️ Atualmente aprendendo: Python<br/>
 
 <!-- Status do Github por: https://github.com/anuraghazra/github-readme-stats -->
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=suikkj&show_icons=true&theme=transparent)
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=suikkj&show_icons=true&theme=gruvbox)
