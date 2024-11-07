@@ -1,5 +1,5 @@
 # 💫 Prazer, sou Lucas!
-<br>👨‍🔬 Estudante de Análise e Desenvolvimento de Sistemas no 4º Período.<br>👨‍🔧 Me especializando em Engenharia de Software.<br>🕵️ Atualmente aprendendo: Python
+<br>👨‍🔬 Desenvolvedor FullStack Junior.<br>👨‍🔧 Me especializando em Engenharia de Software.<br>🕵️ Atualmente aprendendo: Python
 
 
 ## 🌐 Redes Sociais:
