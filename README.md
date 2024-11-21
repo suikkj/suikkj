@@ -1,5 +1,5 @@
 # 💫 Prazer, sou Lucas!
-Desenvolvedor Fullstack Junior<br>Me especializando em Desenvolvimento Web<br>Atualmente aprendendo: JavaScript e NodeJS<br>
+Desenvolvedor Fullstack <br>Me especializando em Desenvolvimento Web<br>Atualmente aprendendo: JavaScript e NodeJS<br>
 
 
 ## 🌐 Socials:
