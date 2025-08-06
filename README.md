@@ -64,6 +64,4 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=suikkj&icon=0&color=6" />
-</p>
+
