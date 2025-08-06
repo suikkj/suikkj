@@ -1,16 +1,53 @@
-# 💫 Prazer, sou Lucas!
-Desenvolvedor Fullstack <br>Me especializando em Desenvolvimento Web<br>Atualmente aprendendo: JavaScript e NodeJS<br>
+<table align="center">
+  <tr>
+    <td valign="top" width="60%">
+      <h3>Olá, eu sou o Lucas! 👋</h3>
+      <p>Sou um Desenvolvedor Fullstack apaixonado por criar soluções web dinâmicas e eficientes. Meu foco principal está no ecossistema JavaScript, transformando ideias em realidade com código limpo e performático.</p>
+      <p>Atualmente, estou aprofundando meus conhecimentos em <strong>Node.js</strong> para construir aplicações back-end robustas e escaláveis.</p>
+      <br>
+      <h4>📫 Como me encontrar:</h4>
+      <a href="mailto:seu-email-aqui@exemplo.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://linkedin.com/in/lucas-carvalho-de-oliveira-057a64265/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://x.com/suikkj_" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+      &nbsp;
+       <a href="https://discord.com/invite/338856974374666241" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+    </td>
+    <td valign="top" width="40%">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=suikkj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="Estatísticas do GitHub de suikkj" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suikkj&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="Linguagens mais usadas por suikkj" />
+    </td>
+  </tr>
+</table>
 
+### 🚀 Minhas Tecnologias
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/338856974374666241) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-carvalho-de-oliveira-057a64265/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suikkj_) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suikkj&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suikkj&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suikkj&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suikkj&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=suikkj&icon=0&color=6" />
+</p>
