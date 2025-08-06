@@ -6,11 +6,11 @@
       <p>Atualmente, estou aprofundando meus conhecimentos em <strong>Node.js</strong> para construir aplicações back-end robustas e escaláveis.</p>
       <br>
       <h4>📫 Como me encontrar:</h4>
-      <a href="mailto:seu-email-aqui@exemplo.com" target="_blank">
+      <a href="mailto:lucasoliprogramador@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
       &nbsp;
-      <a href="https://linkedin.com/in/lucas-carvalho-de-oliveira-057a64265/" target="_blank">
+      <a href="https://www.linkedin.com/in/lucas-oliveira-devfullstack" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       &nbsp;
